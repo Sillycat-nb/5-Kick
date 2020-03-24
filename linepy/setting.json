@@ -1,0 +1,55 @@
+{
+    "autoAdd": {
+        "สถานะ": false
+        "message": "Hello @! ขอบคุณสำหรับการเพิ่มฉันเป็นเพื่อนของคุณ \ nSelfbot โดย Hello World"
+        "ตอบกลับ": จริง
+    }
+    "autoJoin": {
+        "สถานะ": false
+        "message": "Hello @! ขอบคุณที่เชิญฉันเข้าร่วมกลุ่ม \ nSelfbot โดย Hello World"
+        "ตอบกลับ": จริง
+        "ตั๋ว": เท็จ
+    }
+    "autoRead": false
+    "autoRespond": {
+        "สถานะ": false
+        "message": "Hello @! ขอบคุณสำหรับข้อความของคุณนี่เป็นการตอบกลับอัตโนมัติ \ nSelfbot โดย Hello World"
+    }
+    "autoRespondMention": {
+        "สถานะ": false
+        "message": "Hello @! ขอบคุณที่พูดถึงฉันหากข้อความของคุณสำคัญมากโปรดฝากไว้ในการแชทส่วนตัว \ nSelfbot โดย Hello World"
+    }
+    "changeGroupPicture": [],
+    "changePictureProfile": เท็จ
+    "changeCoverProfile": false
+    "checkContact": false,
+    "checkPost": false
+    "checkSticker": เท็จ
+    "defaultReplyReader": "Hello @ !, มาที่นี่เพื่อเข้าร่วมการแชท",
+    "ทักทาย": {
+        "เข้าร่วม": {
+            "สถานะ": false
+            "message": "Hello @! ยินดีต้อนรับสู่กลุ่ม {name}"
+        }
+        "ออกจาก": {
+            "สถานะ": false
+            "message": "Good bye @!, เจอกันใหม่ในครั้งหน้า"
+        }
+    }
+    "ประวัติของฉัน": {
+        "coverId": "",
+        "ชื่อที่แสดง": "",
+        "pictureStatus": "",
+        "statusMessage": ""
+    }
+    "เลียนแบบ": {
+        "สถานะ": false
+        "เป้าหมาย": {}
+    }
+    "restartPoint": null,
+    "setKey": {
+        "สถานะ": จริง
+        "สำคัญ": "."
+    }
+    "ลิขสิทธิ์": "หากคุณเคารพผู้เขียนโปรดอย่าลบลิขสิทธิ์นี้ \ n © 2018 Hello World",
+    "author_lineid": "คุณสามารถเพิ่มผู้แต่งโดยใช้ id line, https://line.me/ti/p/~zero-cool404"
